@@ -2,7 +2,7 @@
 host-suffix, sdkapp.uve.weibo.com, reject
 host-suffix, safebrowsing.urlsec.qq.com, reject
 host-suffix, umeng.com, reject
-host-suffix, umengcloud.com, reject, reject
+host-suffix, umengcloud.com, reject
 host-suffix, app-measurement.com, reject
 host-suffix, activation.crossutility.com, reject
 host-suffix, pingma.qq.com, reject
