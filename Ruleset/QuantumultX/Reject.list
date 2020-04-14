@@ -1,9 +1,9 @@
 # Reject.list
-host-suffix, sdkapp.uve.weibo.com
-host-suffix, safebrowsing.urlsec.qq.com
+host-suffix, sdkapp.uve.weibo.com, reject
+host-suffix, safebrowsing.urlsec.qq.com, reject
 host-suffix, umeng.com, reject
-host-suffix, umengcloud.com
-host-suffix, app-measurement.com
-host-suffix, activation.crossutility.com
-host-suffix, pingma.qq.com
-host-suffix, bugly.qq.com
+host-suffix, umengcloud.com, reject, reject
+host-suffix, app-measurement.com, reject
+host-suffix, activation.crossutility.com, reject
+host-suffix, pingma.qq.com, reject
+host-suffix, bugly.qq.com, reject
