@@ -1,7 +1,5 @@
 # Weibo
 ip-cidr, 36.51.254.229/24
-host-suffix, pingma.qq.com
-host-suffix, bugly.qq.com
 host-suffix, weibo.com
 host-suffix, miaopai.com
 host-suffix, sinajs.cn
