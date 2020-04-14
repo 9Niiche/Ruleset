@@ -1,19 +1,19 @@
 # Weibo
-ip-cidr, 36.51.254.229/24
-host-suffix, weibo.com
-host-suffix, miaopai.com
-host-suffix, sinajs.cn
-host-suffix, alcdn.img.xiaoka.tv
-host-keyword, krcom.cn
-host-keyword, 97973.com
-host-suffix, weibocdn.com
-host-suffix, t.cn
-host-suffix, sinaimg.cn
-host-suffix, weibo.com
-host-suffix, sinaimg.cn
-host-suffix, weibo.cn
-host-suffix, weico.cc
-host-suffix, sina.com
-host-suffix, sina.com.cn
-host-suffix, weibo.com.cn
-host-keyword, sina.cn
+ip-cidr, 36.51.254.229/24, 🌐 微博
+host-suffix, weibo.com, 🌐 微博
+host-suffix, miaopai.com, 🌐 微博
+host-suffix, sinajs.cn, 🌐 微博
+host-suffix, alcdn.img.xiaoka.tv, 🌐 微博
+host-keyword, krcom.cn, 🌐 微博
+host-keyword, 97973.com, 🌐 微博
+host-suffix, weibocdn.com, 🌐 微博
+host-suffix, t.cn, 🌐 微博
+host-suffix, sinaimg.cn, 🌐 微博
+host-suffix, weibo.com, 🌐 微博
+host-suffix, sinaimg.cn, 🌐 微博
+host-suffix, weibo.cn, 🌐 微博
+host-suffix, weico.cc, 🌐 微博
+host-suffix, sina.com, 🌐 微博
+host-suffix, sina.com.cn, 🌐 微博
+host-suffix, weibo.com.cn, 🌐 微博
+host-keyword, sina.cn, 🌐 微博
