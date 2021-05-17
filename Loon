@@ -1,0 +1,21 @@
+# NAME: Weibo
+# REPO: https://github.com/9Niiche/Ruleset/new/master
+# UPDATED: 2021-05-17
+
+DOMAIN-SUFFIX, weibo.com
+DOMAIN-SUFFIX, miaopai.com
+DOMAIN-SUFFIX, sinajs.cn
+DOMAIN-SUFFIX, alcdn.img.xiaoka.tv
+DOMAIN-SUFFIX, weibocdn.com
+DOMAIN-SUFFIX, t.cn
+DOMAIN-SUFFIX, sinaimg.cn
+DOMAIN-SUFFIX, weibo.com
+DOMAIN-SUFFIX, sinaimg.cn
+DOMAIN-SUFFIX, weibo.cn
+DOMAIN-SUFFIX, weico.cc
+DOMAIN-SUFFIX, sina.com
+DOMAIN-SUFFIX, sina.com.cn
+DOMAIN-SUFFIX, weibo.com.cn
+DOMAIN-KEYWORD, sina.cn
+DOMAIN-KEYWORD, krcom.cn
+DOMAIN-KEYWORD, 97973.com
