@@ -4,8 +4,6 @@ host-suffix, weibo.com, Weibo
 host-suffix, miaopai.com, Weibo
 host-suffix, sinajs.cn, Weibo
 host-suffix, alcdn.img.xiaoka.tv, Weibo
-host-keyword, krcom.cn, Weibo
-host-keyword, 97973.com, Weibo
 host-suffix, weibocdn.com, Weibo
 host-suffix, t.cn, Weibo
 host-suffix, sinaimg.cn, Weibo
@@ -16,4 +14,7 @@ host-suffix, weico.cc, Weibo
 host-suffix, sina.com, Weibo
 host-suffix, sina.com.cn, Weibo
 host-suffix, weibo.com.cn, Weibo
-host-keyword, sina.cn, Weibo
+host-keyword, sina, Weibo
+host-keyword, weibo, Weibo
+host-keyword, krcom.cn, Weibo
+host-keyword, 97973.com, Weibo
